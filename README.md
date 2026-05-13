@@ -33,5 +33,5 @@ HTML • CSS • JavaScript • Typecript • React • UI Systems • Design Sy
 ## Contact
 
 - GitHub: https://github.com/kjwentz
-- LinkedIn: [(add link)](https://www.linkedin.com/in/kaho-wentzel/)
+- LinkedIn: https://www.linkedin.com/in/kaho-wentzel/
 - Email: kahowentzel810@gmail.com
