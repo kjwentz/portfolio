@@ -66,12 +66,12 @@ Collaborated with engineers, product stakeholders, and cross-functional teams to
 - Cross-functional collaboration with engineering and product stakeholders
 
 #### Technical Focus
+- C#
+- .NET MAUI
+- XAML
 - Mobile application development
-- Frontend UI implementation
-- Responsive interaction behavior
 - Debugging and issue investigation
 - Production application support
-- User experience consistency
 
 #### Constraints & Considerations
 - Mobile interfaces needed to remain reliable across varying device types and usage conditions
@@ -81,7 +81,7 @@ Collaborated with engineers, product stakeholders, and cross-functional teams to
 
 ---
 
-## 🛠 Skills
+## 🛠 All Skills
 
 **Frontend**
 - HTML
