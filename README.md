@@ -6,7 +6,7 @@ I enjoy building frontend systems that balance flexibility, reliability, and pol
 
 ---
 
-## Experience
+## ✨ Experience
 
 ### Dell Technologies — Frontend / Experimentation Engineer  
 **Web Experimentation & UI Implementation**
@@ -128,7 +128,7 @@ Contributed to maintaining and improving customer-facing mobile experiences whil
 
 ---
 
-## Skills
+## 🛠 Skills
 
 **Frontend**
 - HTML
@@ -158,7 +158,7 @@ I’m particularly interested in frontend systems that blend engineering, UX, an
 
 ---
 
-## Contact
+## 📫 Contact
 
 - GitHub: https://github.com/kjwentz
 - LinkedIn: https://www.linkedin.com/in/kaho-wentzel/
