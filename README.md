@@ -23,6 +23,7 @@ Collaborated with stakeholders, designers, and engineers to implement frontend U
 - Ensured responsive behavior and visual consistency across browsers and device types (such as desktop, tablet, and mobile viewports)
 - Supported debugging and validation of experiment behavior before production launch
 - Collaborated with QA, PMs, and other stakeholders during experimentation workflows
+  
 ---
 
 ### Technical Focus
