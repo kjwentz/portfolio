@@ -4,6 +4,7 @@ Frontend engineer focused on experimentation systems, UI infrastructure, and int
 
 I enjoy building frontend systems that balance flexibility, reliability, and polished user experiences.
 I am passionate about building frontend experiences that feel intuitive and user-focused. My goal is to improve every platform I work on through thoughtful design implementation and attention to detail.
+
 ---
 
 ## ✨ Experience
