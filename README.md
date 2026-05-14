@@ -9,7 +9,7 @@ I am passionate about building frontend experiences that feel intuitive and user
 
 ## ✨ Experience
 
-### Dell Technologies — Frontend / Experimentation Engineer  
+### 💻 Dell Technologies — Frontend / Experimentation Engineer  
 **Web A/B Experimentation & UI Implementation**
 
 Worked on customer-facing web experiments within an established A/B testing and personalization platform environment.
@@ -71,7 +71,7 @@ Contributed to implementation and delivery of customer-facing web experiments in
 ### Note
 Implementation details have been generalized to respect company confidentiality.
 
-### Hawaiian Airlines — Mobile Development Software Engineer  
+### 🌴 Hawaiian Airlines — Mobile Development Software Engineer  
 **Mobile Application Development & User Experience**
 
 Worked on mobile application development focused on delivering reliable and user-friendly travel experiences across customer-facing platforms.
