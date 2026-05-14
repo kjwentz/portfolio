@@ -55,17 +55,6 @@ Collaborated with engineers, product stakeholders, and cross-functional teams to
 - Participated in debugging, testing, and issue resolution for production mobile applications
 - Worked within an agile environment alongside engineering and product teams
 
----
-
-### Mobile User Experience Development for Airline Applications
-
-#### What I Worked On
-- Application features and interface behaviors
-- UI flows designed for responsive and intuitive UI
-- Debugging and issue resolution within production mobile environments
-- Feature validation and QA-related workflows
-- Cross-functional collaboration with engineering and product stakeholders
-
 #### Technical Focus
 - C#
 - .NET MAUI
