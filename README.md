@@ -3,23 +3,23 @@
 Frontend engineer focused on experimentation systems, UI infrastructure, and interactive web experiences for production-scale applications.
 
 I enjoy building frontend systems that balance flexibility, reliability, and polished user experiences.
-
+I am passionate about building frontend experiences that feel intuitive and user-focused. My goal is to improve every platform I work on through thoughtful design implementation and attention to detail.
 ---
 
 ## ✨ Experience
 
 ### Dell Technologies — Frontend / Experimentation Engineer  
-**Web Experimentation & UI Implementation**
+**Web A/B Experimentation & UI Implementation**
 
 Worked on customer-facing web experiments within an established A/B testing and personalization platform environment.
 
 Collaborated with stakeholders, designers, and engineers to implement frontend UI experiments for production webpages using Adobe Target.
 
 ### Key Contributions
-- Implemented frontend UI experiments and design variations based on stakeholder requirements and mockups
+- Implemented frontend UI experiments and designs based on stakeholder requirements and mockups utiilizing Figma
 - Developed overlay-based UI modifications on top of existing production webpages
 - Worked within established experimentation and personalization frameworks using Adobe Target
-- Ensured responsive behavior and visual consistency across browsers and device types
+- Ensured responsive behavior and visual consistency across browsers and device types (such as desktop, tablet, and mobile viewports)
 - Supported debugging and validation of experiment behavior before production launch
 - Collaborated with QA, PMs, and other stakeholders during experimentation workflows
 ---
@@ -29,14 +29,15 @@ Collaborated with stakeholders, designers, and engineers to implement frontend U
 ## Frontend Experimentation for Enterprise Web Interfaces
 
 ### Context
-At Dell Technologies, I worked within an established web experimentation environment supporting customer-facing webpages and UI testing workflows.
+At Dell Technologies, I worked within an established A/B testing environment supporting customer-facing webpages and UI testing workflows.
 
-Experiments were managed through Adobe Target and involved implementing frontend variations based on stakeholder and design requirements.
+Experiments were managed through Adobe Target and involved implementing frontend variations based on stakeholder design requirements.
 
 ### My Role
 Frontend engineer responsible for implementing UI experiments and overlay-based frontend modifications on top of existing production webpages.
 
 My work focused on translating designs into functional frontend experiences while ensuring compatibility with existing layouts, responsive behavior, and experimentation requirements.
+Implementations included data-tracking metrics, later used by Data Analysts to summarize findings and results. 
 
 ### What I Worked On
 - Frontend implementation of A/B test variations and UI experiments
@@ -55,15 +56,16 @@ My work focused on translating designs into functional frontend experiences whil
 - Frontend debugging
 - UI consistency
 - Experimentation workflows
+- React (side projects for internal developer tools)
 
 ### Constraints & Considerations
-- UI needed to integrate safely with existing production webpages
-- Layout and styling updates needed to remain responsive across devices
-- Changes needed to avoid disrupting existing webpage functionality
+- UI needed to integrate safely with existing production pages
+- Layout and styling updates needed to remain responsive across all devices
+- Changes needed to avoid disrupting control webpage functionality
 - Experiment implementations needed to align with stakeholder and design expectations
 
 ### Outcome
-Contributed to implementation and delivery of customer-facing web experiments in a production environment while supporting reliable and consistent frontend behavior.
+Contributed to implementation and delivery of customer-facing web experiments in a production environment while supporting reliable and consistent frontend behavior, driving company revenue and providing tangible data on performance of various experimental designs.
 
 ### Note
 Implementation details have been generalized to respect company confidentiality.
@@ -76,12 +78,11 @@ Worked on mobile application development focused on delivering reliable and user
 Collaborated with engineers, product stakeholders, and cross-functional teams to support development, maintenance, and improvement of mobile application features in a production environment.
 
 ### Key Contributions
-- Contributed to development and maintenance of customer-facing mobile application features
-- Worked on improving usability, responsiveness, and overall user experience within mobile interfaces
+- Contributed to development and maintenance of customer-facing mobile app features
+- Worked on improving usability, responsiveness, and overall user experience within mobile interfaces (including iOS and Android)
 - Collaborated with team members to implement and validate new functionality across mobile workflows
 - Participated in debugging, testing, and issue resolution for production mobile applications
-- Supported consistent behavior across devices and application states
-- Worked within an agile development environment alongside engineering and product teams
+- Worked within an agile environment alongside engineering and product teams
 
 ---
 
@@ -90,21 +91,23 @@ Collaborated with engineers, product stakeholders, and cross-functional teams to
 ### Mobile User Experience Development for Airline Applications
 
 #### Context
-At Hawaiian Airlines, I worked on customer-facing mobile application experiences designed to support travelers throughout various stages of the airline journey.
+At Hawaiian Airlines, I worked on customer-facing mobile application experiences designed to support travelers throughout various stages of their journey.
 
-The work involved maintaining and improving mobile interfaces in a production environment where reliability, usability, and responsiveness were critical.
+The work involved maintaining and improving mobile interfaces in a live production environment where reliability, usability, and responsiveness and bug-free experiences were critical.
 
 #### Problem
 Mobile travel applications require clear and reliable user experiences across a wide range of devices, network conditions, and user scenarios.
 
 The challenge was balancing usability, consistency, and maintainability while supporting evolving product requirements in a production-scale mobile application.
 
+A particularly difficult part was making sure the experience is stable and bug-free, as any app downtime will significantly impact travel trajectory for customers.
+
 #### My Role
-Mobile development software engineer contributing to frontend mobile application behavior, feature implementation, testing workflows, and UI reliability improvements.
+Mobile development software engineer contributing to frontend mobile application behavior, feature implementation, testing workflows, unit testing, and UI reliability improvements.
 
 #### What I Worked On
-- Customer-facing mobile application features and interface behaviors
-- UI flows designed for responsive and intuitive user interaction
+- Application features and interface behaviors
+- UI flows designed for responsive and intuitive UI
 - Debugging and issue resolution within production mobile environments
 - Feature validation and QA-related workflows
 - Cross-functional collaboration with engineering and product stakeholders
@@ -119,12 +122,12 @@ Mobile development software engineer contributing to frontend mobile application
 
 #### Constraints & Considerations
 - Mobile interfaces needed to remain reliable across varying device types and usage conditions
-- User flows needed to remain intuitive and performant
 - Production issues required careful debugging and validation
 - Features needed to align with broader application consistency and usability goals
+- Designs needed to align with demographics of customers who use mobile vs tablet when booking/checking flights
 
 #### Outcome
-Contributed to maintaining and improving customer-facing mobile experiences while supporting reliable application behavior and iterative feature development in a production environment.
+Contributed to maintaining and improving customer-facing mobile experiences while supporting reliable application behavior and iterative feature development in a fast-paced production environment.
 
 ---
 
@@ -135,6 +138,9 @@ Contributed to maintaining and improving customer-facing mobile experiences whil
 - CSS
 - JavaScript
 - React
+- .NET
+- C# MAUI
+- XAML
 - Responsive Design
 - Component-Based UI Development
 
@@ -144,17 +150,12 @@ Contributed to maintaining and improving customer-facing mobile experiences whil
 - Design Systems
 - Frontend Architecture
 - Interaction-Focused Interfaces
+- Mobile Application Development
 
 **Workflow**
 - Cross-functional collaboration
 - Production-scale frontend maintenance
 - Debugging & QA workflows
-
----
-
-## Interests
-
-I’m particularly interested in frontend systems that blend engineering, UX, and interactive presentation — including experimentation platforms, immersive interfaces, and design-driven web experiences.
 
 ---
 
