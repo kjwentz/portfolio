@@ -42,6 +42,8 @@ Collaborated with stakeholders, designers, and engineers to implement frontend U
 - Changes needed to avoid disrupting control webpage functionality
 - Experiment implementations needed to align with stakeholder and design expectations
 
+***
+
 ### 🌴 Hawaiian Airlines — Mobile Development Software Engineer  
 **Mobile Application Development & User Experience**
 
